@@ -1,1 +1,14 @@
-site_name: Koma Blogs
+site_name: Koma's Blog
+
+theme:
+  name: material
+  features:
+    - navigation.footer
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Kooooooma/komas-blog
+  generator: false
+
+copyright: Copyright &copy; 2023 - 3023 Koma
