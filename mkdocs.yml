@@ -1,4 +1,7 @@
-site_name: Koma's Blog
+site_name: Knowledge Is Power
+site_url: https://github.com/Kooooooma/komas-blog
+
+repo_url: https://github.com/Kooooooma/komas-blog
 
 theme:
   name: material
@@ -9,6 +12,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Kooooooma/komas-blog
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/_Kooooooma
   generator: false
 
 copyright: Copyright &copy; 2023 - 3023 Koma
