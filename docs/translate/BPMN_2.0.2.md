@@ -1,6 +1,6 @@
 # BPMN 2.0 规范文档翻译
 
-官方规范文档地址 [BPMN](https://www.omg.org/spec/BPMN/)
+官方规范文档地址 [BPMN](https://www.omg.org/spec/BPMN/){:target="\_blank"}
 
 ## 本文档范围
 

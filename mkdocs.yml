@@ -8,12 +8,17 @@ theme:
   features:
     - navigation.footer
 
+markdown_extensions:
+  - attr_list
+
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Kooooooma/komas-blog
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/_Kooooooma
+    - icon: fontawesome/brands/linkedin-in
+      link: https://www.linkedin.com/in/koma-zhang-6058a92a6/
   generator: false
 
 copyright: Copyright &copy; 2023 - 3023 Koma
