@@ -1,12 +1,13 @@
-# Welcome to Koma's Space
+# Target
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+- 致力于成为一个广度和深度兼顾的 Developer
+- 阐述关于编程的全部基础知识
+- 深入剖析各类编程知识点的底层原理
+- 记录日常工作和生活中的一些英语单词、句子
+- 阐述各类金融专业知识
+- 收集整理各类有趣的 github 项目
+- 收集整理各类有趣的在线工具
 
-## Commands
+### Compile by [Markdown](https://markdown.com.cn/tools.html){:target="\_blank"}
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
-
-## 关于我
+### Powered by [mkdocs.org](https://www.mkdocs.org){:target="\_blank"}
