@@ -8,6 +8,5 @@
 - 收集整理各类有趣的 github 项目
 - 收集整理各类有趣的在线工具
 
-### Compile by [Markdown](https://markdown.com.cn/tools.html){:target="\_blank"}
-
-### Powered by [mkdocs.org](https://www.mkdocs.org){:target="\_blank"}
+Compiled by [Markdown](https://markdown.com.cn/tools.html){:target="\_blank"}
+Powered by [mkdocs.org](https://www.mkdocs.org){:target="\_blank"}
