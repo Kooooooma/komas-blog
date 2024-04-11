@@ -5,8 +5,22 @@ repo_url: https://github.com/Kooooooma/komas-blog
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.footer
+  palette: 
+    - scheme: default
+      primary: white
+      accent: teal
+      toggle:
+        icon: material/theme-light-dark
+        name: 深色模式
+    - scheme: slate
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/theme-light-dark
+        name: 浅色模式
 
 markdown_extensions:
   - attr_list

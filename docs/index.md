@@ -8,5 +8,14 @@
 - 收集整理各类有趣的 github 项目
 - 收集整理各类有趣的在线工具
 
-Compiled by [Markdown](https://markdown.com.cn/tools.html){:target="\_blank"}
-Powered by [mkdocs.org](https://www.mkdocs.org){:target="\_blank"}
+---
+
+Content format by [Markdown](https://markdown.com.cn/tools.html){:target="\_blank"}
+
+UI powered by [mkdocs.org](https://www.mkdocs.org){:target="\_blank"}, [mkdocs-material](https://squidfunk.github.io/mkdocs-material/){:target="\_blank"}
+
+CD powered by [github actions](https://docs.github.com/en/actions/quickstart){:target="\_blank"}
+
+Comment powered by [giscus.app](https://giscus.app/zh-CN){:target="\_blank"}
+
+---
